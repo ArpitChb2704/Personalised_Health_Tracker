@@ -9,20 +9,30 @@ This is a basic and intoduxtory Project the result and the model may be unfit , 
 ### Input Parameters: Users can provide details such as:
 
 Number of pregnancies
+
 Glucose level
+
 Blood pressure
+
 Insulin level
+
 BMI (Body Mass Index)
+
 Age
 
-### Risk Prediction: The app predicts the risk level (e.g., High Risk, Low Risk) for diabetes based on the input data.
+### Risk Prediction:  
+The app predicts the risk level (e.g., High Risk, Low Risk) for diabetes based on the input data.
 
-### Probability Output: Displays the probability score for the predicted risk.
+### Probability Output: 
+Displays the probability score for the predicted risk.
 
 ## Tech Stack
 
 Frontend: Gradio interface
+
 Machine Learning: scikit-learn model
+
 Deployment: Hugging Face Spaces
+
 Dataset : Kaagle[https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset]
 
